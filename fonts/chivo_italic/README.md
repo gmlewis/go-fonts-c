@@ -7,7 +7,7 @@ To use this font in your code, simply import it:
 ```go
 import (
   "github.com/gmlewis/go-fonts/fonts"
-  _ "github.com/gmlewis/go-fonts-a/fonts/chivo_italic"
+  _ "github.com/gmlewis/go-fonts-c/fonts/chivo_italic"
 )
 
 func main() {

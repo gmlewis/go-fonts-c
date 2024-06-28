@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/cacchampagne
+module github.com/gmlewis/go-fonts-c/fonts/cacchampagne
 
 go 1.22.4
 

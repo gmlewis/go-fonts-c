@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/chivo_medium
+module github.com/gmlewis/go-fonts-c/fonts/chivo_medium
 
 go 1.22.4
 

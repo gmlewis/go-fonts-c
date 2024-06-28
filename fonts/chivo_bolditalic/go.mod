@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/chivo_bolditalic
+module github.com/gmlewis/go-fonts-c/fonts/chivo_bolditalic
 
 go 1.22.4
 

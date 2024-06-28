@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/chivo_semibold
+module github.com/gmlewis/go-fonts-c/fonts/chivo_semibold
 
 go 1.22.4
 

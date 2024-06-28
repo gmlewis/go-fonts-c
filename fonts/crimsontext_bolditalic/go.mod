@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/crimsontext_bolditalic
+module github.com/gmlewis/go-fonts-c/fonts/crimsontext_bolditalic
 
 go 1.22.4
 

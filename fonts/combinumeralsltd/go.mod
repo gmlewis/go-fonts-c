@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/combinumeralsltd
+module github.com/gmlewis/go-fonts-c/fonts/combinumeralsltd
 
 go 1.22.4
 

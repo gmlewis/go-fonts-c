@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/chivo_mediumitalic
+module github.com/gmlewis/go-fonts-c/fonts/chivo_mediumitalic
 
 go 1.22.4
 

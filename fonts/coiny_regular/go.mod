@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/coiny_regular
+module github.com/gmlewis/go-fonts-c/fonts/coiny_regular
 
 go 1.22.4
 

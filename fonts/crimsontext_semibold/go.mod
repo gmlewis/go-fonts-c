@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/crimsontext_semibold
+module github.com/gmlewis/go-fonts-c/fonts/crimsontext_semibold
 
 go 1.22.4
 

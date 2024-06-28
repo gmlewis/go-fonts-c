@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/carrelectronicdingbats
+module github.com/gmlewis/go-fonts-c/fonts/carrelectronicdingbats
 
 go 1.22.4
 

@@ -1,4 +1,4 @@
-module github.com/gmlewis/go-fonts-a/fonts/chivo_thin
+module github.com/gmlewis/go-fonts-c/fonts/chivo_thin
 
 go 1.22.4
 
